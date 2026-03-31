@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+我是一位计算机专业的大二学生，下面是我的个人主页[https://s1exy.github.io/Slexy.github.io/]
 
 ![My GitHub Game](game.gif)
